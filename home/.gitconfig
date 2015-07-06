@@ -1,0 +1,9 @@
+[user]
+	name = Matt Bowen
+	email = mrbowen@gmail.com
+[core]
+	editor = /Applications/MacVim.app/Contents/MacOS/Vim
+[init]
+	templatedir = ~/.git_template
+[alias]
+	ctags = !.git/hooks/ctags
